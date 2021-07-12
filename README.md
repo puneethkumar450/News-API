@@ -9,4 +9,7 @@ News API is a simple HTTP REST API for searching and retrieving live articles fr
 
 Authentication is handled with a simple API key.
 
+<img src="https://user-images.githubusercontent.com/17966527/125278677-a7517180-e330-11eb-89df-404f1efecec5.jpeg" width="180" height="300">
+<img src="https://user-images.githubusercontent.com/17966527/125278694-ab7d8f00-e330-11eb-9595-57b9b8a4a7f5.jpeg" width="180" height="300">
+
 To get API Key https://newsapi.org/ and regester to get the API.
